@@ -50,7 +50,7 @@ Examples of web platforms hosted by a third party:</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/politique-de-contribution-open-source/en/faq/</guid>
-      <description>Scope Am I affected by this open source contribution policy?  As stated in the introduction, if the Law for a Digital Republic applies to the entire administration, the scope of the DINSIC focuses on the central administrations (with some exceptions according to Decree No. 2014-879 of August 1 2014).
+      <description>Scope Am I affected by this open source contribution policy?As stated in the introduction, if the Law for a Digital Republic applies to the entire administration, the scope of the DINSIC focuses on the central administrations (with some exceptions according to Decree No. 2014-879 of August 1 2014).
 If you are part of a local authority, this policy does not apply to you, even though the Law for a Digital Republic applies.</description>
     </item>
     
@@ -71,7 +71,7 @@ Two types of organizations are distinguished:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://disic.github.io/politique-de-contribution-open-source/en/instanciation/</guid>
-      <description>In summary  Ability to instantiate and ammend this policy Contact the &amp;ldquo;parent&amp;rdquo; policy to inform about the declination Provide a mean of contact for the instantiated policy  Inventories of instantiated departmental policies  No ministerial policy instantiated to date Example: &amp;lt; Ministry XXX &amp;gt;: http: //reference.url/ministerialpolicy  Instantiation procedure  Fork this repository to initiate your departmental policy Make a pull request on this file to list the child contribution policy and its URL Contact the support of this policy and validate the main contact of the child policy  Do not hesitate to contact us for any questions.</description>
+      <description>In summary  Ability to instantiate and amend this policy Contact the &amp;ldquo;parent&amp;rdquo; policy to inform about the declination Provide a mean of contact for the instantiated policy  Inventories of instantiated departmental policies  No ministerial policy instantiated to date Example: &amp;lt; Ministry XXX &amp;gt;: http: //reference.url/ministerialpolicy  Instantiation procedure  Fork this repository to initiate your departmental policy Make a pull request on this file to list the child contribution policy and its URL Contact the support of this policy and validate the main contact of the child policy  Do not hesitate to contact us for any questions.</description>
     </item>
     
     <item>
